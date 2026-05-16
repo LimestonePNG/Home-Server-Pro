@@ -8,14 +8,14 @@ We actively monitor and provide security updates for the following versions of H
 | ------- | ------------------ |
 | 1.17.9 | :white_check_mark: |
 | 1.13.6 | :white_check_mark: |
-| 1.11.9 | :exclamation: |
+| 1.11.16 | :grey_exclamation: |
 | 1.10.3 | :white_check_mark: |
-| 1.9.4 | :x: |
+| 1.9.4 | :question: |
 | 1.8.9 | :x: |
-| 1.7.6 | :x: |
+| 1.7.6 | :grey_exclamation: |
 | 1.2.6 | :x: |
-| > 1.1 | :white_check_mark: |
-| > 1.0.1 | :x: |
+| 1.1 | :white_check_mark: |
+| 1.0.1 | :x: |
 
 | Status | Mark | Description |
 | :--- | :---: | :--- |
