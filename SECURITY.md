@@ -17,13 +17,13 @@ We actively monitor and provide security updates for the following versions of H
 | > 1.1 | :white_check_mark: |
 | > 1.0.1 | :x: |
 
-| Supported | Mark |
-| --- | --- |
-| Supported | :white_check_mark: |
-| Unknown Issue | :question: |
-| Critical | :exclamation: |
-| Discontunued | :grey_exclamation: |
-| Unsupported | :x: |
+| Status | Mark | Description |
+| :--- | :---: | :--- |
+| **Supported** | :white_check_mark: | Working fine. |
+| **Unknown Issue** | :question: | Issue not known or unverified. |
+| **Critical** | :exclamation: | Critical vulnerability or major bug identified. |
+| **Discontinued** | :grey_exclamation: | Legacy version; no longer actively maintained. |
+| **Unsupported** | :x: | No longer supported; insecure. |
 
 ## Reporting a Vulnerability
 
