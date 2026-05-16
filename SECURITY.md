@@ -17,8 +17,13 @@ We actively monitor and provide security updates for the following versions of H
 | > 1.1 | :white_check_mark: |
 | > 1.0.1 | :x: |
 
-> [!TIP]
-> 
+| Supported | Mark |
+| --- | --- |
+| Supported | :white_check_mark: |
+| Unknown Issue | :question: |
+| Critical | :exclamation: |
+| Discontunued | :grey_exclamation: |
+| Unsupported | :x: |
 
 ## Reporting a Vulnerability
 
