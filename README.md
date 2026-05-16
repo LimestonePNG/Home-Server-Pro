@@ -1,17 +1,9 @@
 # Home Server Pro
-Want to upgrade your home server. Well obviously you do, so download Home Server Pro.
-
-***
-
-## How to download?
+​Looking to upgrade your home server setup? **Home Server Pro** is the perfect next step. Download the latest version below to get started.
+## ​How to Download
 > [!TIP]
-> If this is too complicated we recomend downloading the Home Server Advanced
-
-1.
-Click on the latest release
-
-3.
-Then download it for the device you are using
+> If you prefer a simpler configuration, we recommend trying Home Server Advanced instead.
+1. ​Navigate to Releases: Click on the Latest Release link at the top of the page.
+2. ​Select Your Platform: Choose and download the correct installer package for your specific operating system.
 > [!WARNING]
-> Make sure to download the backend for the right device
-
+> Ensure you select the correct backend architecture (e.g., Windows, macOS, Linux, or ARM) compatible with your hardware.
